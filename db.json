@@ -1,0 +1,89 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 6,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 7,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 8,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 10,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "title": "sssss",
+      "body": "sssss",
+      "id": 11
+    },
+    {
+      "title": "aaa",
+      "body": "aaa",
+      "id": 12
+    },
+    {
+      "title": "ssss",
+      "body": "ssss",
+      "id": 13
+    },
+    {
+      "title": "222222222222",
+      "body": "sss",
+      "id": 14
+    },
+    {
+      "title": "asdas",
+      "body": "asdas",
+      "id": 15
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
